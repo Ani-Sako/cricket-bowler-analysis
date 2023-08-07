@@ -1,0 +1,16 @@
+name: ds_cricket_analysis
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.10
+  - numpy
+  - jupyter
+  - ipython
+  - bs4
+  - requests
+  - matplotlib
+  - pandas=2.0
+  - seaborn
+  - scikit-learn
+  - pip
